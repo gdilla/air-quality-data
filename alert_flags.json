@@ -1,0 +1,48 @@
+{
+    "CO2": [
+        {
+            "x": 1742206440000,
+            "title": "\u26a0",
+            "text": "CO2 Alert: High CO2 (902.0) lasted 55.0 min"
+        },
+        {
+            "x": 1742211060000,
+            "title": "\u26a0",
+            "text": "CO2 Alert: High CO2 (918.0) lasted 1.0 min"
+        },
+        {
+            "x": 1742211180000,
+            "title": "\u26a0",
+            "text": "CO2 Alert: High CO2 (909.0) lasted 34.0 min"
+        },
+        {
+            "x": 1742229540000,
+            "title": "\u26a0",
+            "text": "CO2 Alert: High CO2 (928.0) lasted 48.0 min"
+        }
+    ],
+    "TVOC": [],
+    "Humidity": [
+        {
+            "x": 1739582100000,
+            "title": "\u26a0",
+            "text": "Humidity Alert: High Humidity (25.8) lasted 37260.0 min"
+        },
+        {
+            "x": 1741865100000,
+            "title": "\u26a0",
+            "text": "Humidity Alert: High Humidity (30.0) lasted 5.0 min"
+        },
+        {
+            "x": 1741865460000,
+            "title": "\u26a0",
+            "text": "Humidity Alert: High Humidity (30.0) lasted 232.0 min"
+        },
+        {
+            "x": 1741881840000,
+            "title": "\u26a0",
+            "text": "Humidity Alert: High Humidity (30.0) lasted 2561.0 min"
+        }
+    ],
+    "Temperature": []
+}
